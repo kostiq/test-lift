@@ -2,7 +2,7 @@ import argparse
 import threading
 from time import sleep
 
-MIN_FLOW_NUMBER = 5
+MIN_FLOW_NUMBER=5
 MAX_FLOW_NUMBER = 20
 
 
